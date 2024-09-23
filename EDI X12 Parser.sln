@@ -5,6 +5,8 @@ VisualStudioVersion = 17.10.35013.160
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EDI X12 Parser", "EDI X12 Parser.csproj", "{96B18F8A-0D34-4E02-A67C-8EF28572E307}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XML Helper", "..\XML Helper\XML Helper.csproj", "{C54809D4-DBE5-4D91-9AF7-DBAA612FA568}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{96B18F8A-0D34-4E02-A67C-8EF28572E307}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{96B18F8A-0D34-4E02-A67C-8EF28572E307}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{96B18F8A-0D34-4E02-A67C-8EF28572E307}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C54809D4-DBE5-4D91-9AF7-DBAA612FA568}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C54809D4-DBE5-4D91-9AF7-DBAA612FA568}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C54809D4-DBE5-4D91-9AF7-DBAA612FA568}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C54809D4-DBE5-4D91-9AF7-DBAA612FA568}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
